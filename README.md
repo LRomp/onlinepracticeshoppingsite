@@ -49,3 +49,13 @@ Simon is the website manager and is charge of making sure that the site stock st
 | Shipping Update  | Available 99.5%  | Fraction of 200 vs 500 HTTP Responses from the API endpoint measure per day |
 | Shipping Update  | 90% of requests complete in under 300 ms  | Time to last byte PUSH requests measured every 10 seconds aggregated per minute |
 
+## Microservices
+
+![Online Store Microservices drawio](https://user-images.githubusercontent.com/55098689/153029030-82cf5299-a957-4ceb-891c-4421db28a98b.png)
+
+## REST API's
+
+| Service Name  | Collections | Methods |
+| ------------- | ------------- | ------------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
