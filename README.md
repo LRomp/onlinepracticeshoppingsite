@@ -75,3 +75,17 @@ Simon is the website manager and is charge of making sure that the site stock st
 | Payment Service  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 | Orders Service  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 | Authentication Service  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+
+## Network Characteristics
+
+| Service  | Internet faacing or Internal Only | HTTP | TCP | UDP | Multiregional |
+| ------------- | ------------- | ------------ |------------ |------------ |------------ |
+| Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell |
+| Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell |
+
+## Load Balancers
+
+| Service Name  | HTTP | TCP | UDP |
+| ------------- | ------------- | ------------ | ------------ |
+| Content Cell  | Content Cell  | Content Cell | Content Cell |
+| Content Cell  | Content Cell  | Content Cell | Content Cell |
