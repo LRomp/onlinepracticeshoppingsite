@@ -36,3 +36,9 @@ Simon is the website manager and is charge of making sure that the site stock st
 
 **Simon's User Stories**
 
+Defining SLI's & SLO's
+
+| User Story  | SLO's |  SLI's |
+| ------------- | ------------- | ------ |
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |    
