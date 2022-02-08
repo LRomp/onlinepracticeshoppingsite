@@ -40,5 +40,12 @@ Simon is the website manager and is charge of making sure that the site stock st
 
 | User Story  | SLO's |  SLI's |
 | ------------- | ------------- | ------ |
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  | Content Cell |    
+| Cart Inquiry  | Available 99.5%  | Fraction of 200 vs 500 HTTP Responses from the API endpoint measure per day |
+| Cart Inquiry  | 90% of requests complete in under 300 ms  | Time to last byte GET requests measured every 10 seconds aggregated per minute |
+| Cart Update  | 90% of requests complete in under 300 ms  | Time to last byte PUSH requests measured every 10 seconds aggregated per minute |
+| Cart Update  | Available 99.5%  | Fraction of 200 vs 500 HTTP Responses from the API endpoint measure per day |
+| Shipping Inquiry  | Available 99.5%  | Fraction of 200 vs 500 HTTP Responses from the API endpoint measure per day |
+| Shipping Inquiry  | 90% of requests complete in under 300 ms  | Time to last byte GET requests measured every 10 seconds aggregated per minute |
+| Shipping Update  | Available 99.5%  | Fraction of 200 vs 500 HTTP Responses from the API endpoint measure per day |
+| Shipping Update  | 90% of requests complete in under 300 ms  | Time to last byte PUSH requests measured every 10 seconds aggregated per minute |
+
