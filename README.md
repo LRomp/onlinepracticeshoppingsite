@@ -59,3 +59,19 @@ Simon is the website manager and is charge of making sure that the site stock st
 | ------------- | ------------- | ------------ |
 | Content Cell  | Content Cell  | Content Cell |
 | Content Cell  | Content Cell  | Content Cell |
+
+## Storage Characteristics
+
+| Service  | Structured or Unstructured | SQL or NoSQL | Strong or Eventual Consistency | Amount of Data (MB, GB, TB, PB, ExB) | Read only or Read/Write |
+| ------------- | ------------- | ------------ |------------ |------------ |------------ |
+| Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell |
+| Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell |
+
+## Google Storage Products
+
+| Service  | Persistent Disk | Cloud Storage | Cloud SQL | Firestore | Cloud Bigtable | Cloud Spanner  | BigQuery |
+| ------------- | ------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Products Service  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| Payment Service  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| Orders Service  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| Authentication Service  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
